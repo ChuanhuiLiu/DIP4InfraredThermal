@@ -13,7 +13,7 @@ Picture:
 
 Video:
 
-![](VIdeo.gif)
+![](Video.gif)
 
 ## 1. Introduction
 
